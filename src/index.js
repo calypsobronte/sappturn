@@ -56,7 +56,7 @@ class Header extends React.Component {
       <header>
 
         <Link className="logo" to="/">
-           <h2><img src={logo} alt=" Logo | SappTurn's" /> SappTurn</h2>
+           <h2><img src={logo} alt=" Logo | SappTurn's" /> <b className="Sapp">Sapp</b><b>Turn</b></h2>
         </Link>
 
         <nav>
@@ -64,7 +64,7 @@ class Header extends React.Component {
             <li className="first">
               <Link id="home" to="/">Inicio</Link>
             </li>
-            <li className="last">
+            <li>
               <Link to="/About">Sobre Nosotros</Link>
             </li>
             <li>
