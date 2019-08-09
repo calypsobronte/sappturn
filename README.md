@@ -14,6 +14,9 @@ Tambien nos puedes encontrar en redes sociales:
 * JS
 * CSS 
 
+## License
+[MIT]
 
 [Twitter]:https://twitter.com/sappturn
 [Instagram]:https://instagram.com/sappturncode
+[MIT]: https://github.com/calypsobronte/sappturn/blob/master/LICENSE
